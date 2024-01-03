@@ -13,11 +13,11 @@ Three-dimensional (3D) building models provide horizontal and vertical informati
 ## Download
 
 
-Beijing: []() password: 
+Beijing: [https://pan.baidu.com/s/11wZNvzd7bf8MdlC2Z7MTrg](https://pan.baidu.com/s/11wZNvzd7bf8MdlC2Z7MTrg) password: 1xvk
 
-Tianjin:
+Tianjin: [https://pan.baidu.com/s/183PBHoc3gUiFUFvWMPGPbg](https://pan.baidu.com/s/183PBHoc3gUiFUFvWMPGPbg) password: tku7
 
-Shanghai:
+Shanghai: [https://pan.baidu.com/s/1MWwDCjVzC8h7KjRxrAQKUQ](https://pan.baidu.com/s/1MWwDCjVzC8h7KjRxrAQKUQ) password: 809t
 
 # Citation
 Bibtex will be added after the publication.
