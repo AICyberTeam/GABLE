@@ -2,6 +2,7 @@
 
 #
 ### NEWS !!!
+* **`Jan. 03rd, 2024`:** :clap: Our paper is accepted by Remote Sensing of Environment! Refer to the **[Paper](https://www.sciencedirect.com/science/article/pii/S0034425724000683)** for more details.
 * **`Jan. 03rd, 2024`:** :rocket: The shapefile data of three cities (Beijing, Tianjin, Shanghai) in GABLE have been made available. The data in other provinces is being sorted out. Enjoy it!
 * **`Oct. 01st, 2023`:** :bulb: Our paper has been submitted Remote Sensing of Environment.
 
