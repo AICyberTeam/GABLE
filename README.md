@@ -1,4 +1,4 @@
-<div align="center"><img src="figures/title.png" width="1000"></div>
+<div align="center"><img src="figures/title_new.png" width="1000"></div>
 
 #
 ### NEWS !!!
