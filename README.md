@@ -21,4 +21,17 @@ Tianjin: [https://pan.baidu.com/s/183PBHoc3gUiFUFvWMPGPbg](https://pan.baidu.com
 Shanghai: [https://pan.baidu.com/s/1MWwDCjVzC8h7KjRxrAQKUQ](https://pan.baidu.com/s/1MWwDCjVzC8h7KjRxrAQKUQ) password: 809t
 
 # Citation
-Bibtex will be added after the publication.
+If you find GABLE is useful in your research or applications, please consider giving us a star :star: and citing them by the following BibTeX entries:
+```
+@article{SUN2024114057,
+title = {GABLE: A first fine-grained 3D building model of China on a national scale from very high resolution satellite imagery},
+journal = {Remote Sensing of Environment},
+volume = {305},
+pages = {114057},
+year = {2024},
+issn = {0034-4257},
+doi = {https://doi.org/10.1016/j.rse.2024.114057},
+url = {https://www.sciencedirect.com/science/article/pii/S0034425724000683},
+author = {Xian Sun and Xingliang Huang and Yongqiang Mao and Taowei Sheng and Jihao Li and Zhirui Wang and Xue Lu and Xiaoliang Ma and Deke Tang and Kaiqiang Chen}
+}
+```
