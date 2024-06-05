@@ -2,7 +2,6 @@
 
 #
 ### NEWS !!!
-* **`Apr. 15rd, 2024`:** :rocket: The shapefile data has been made availalble for the remaining areas in GABLE!
 * **`Apr. 09rd, 2024`:** :rocket: The shapefile data of the Zhejiang province in GABLE have been made available. The data in other provinces is being sorted out. Enjoy it!
 * **`Feb. 27rd, 2024`:** :clap: Our paper is accepted by Remote Sensing of Environment! Refer to the **[Paper](https://www.sciencedirect.com/science/article/pii/S0034425724000683)** for more details.
 * **`Jan. 03rd, 2024`:** :rocket: The shapefile data of three cities (Beijing, Tianjin, Shanghai) in GABLE have been made available. The data in other provinces is being sorted out. Enjoy it!
@@ -22,8 +21,6 @@ Tianjin: [[Baidu Netdisk](https://pan.baidu.com/s/183PBHoc3gUiFUFvWMPGPbg)] pass
 Shanghai: [[Baidu Netdisk](https://pan.baidu.com/s/1MWwDCjVzC8h7KjRxrAQKUQ)] password: 809t
 
 Zhejiang: [[Baidu Netdisk](https://pan.baidu.com/s/1DU6q_pmMqIfkLPXfaOlnGg)] password: dfl2
-
-Remaining regions (71.51GB): [[Baidu Netdisk](https://pan.baidu.com/s/1k62TyZDLaCCtroTQh4WxCA)] password: l5yr
 
 # Citation
 If you find GABLE is useful in your research or applications, please consider giving us a star :star: and citing them by the following BibTeX entries:
