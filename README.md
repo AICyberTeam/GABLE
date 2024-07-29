@@ -2,6 +2,7 @@
 
 #
 ### NEWS !!!
+* **`Jul. 29rd, 2024`:** :bug: We have updated the issue regarding missing data in certain areas. Please download the latest version from the new Baidu Netdisk link. Only data from July 29, 2024, onwards is considered accurate. We apologize for any inconvenience caused.
 * **`Apr. 09rd, 2024`:** :rocket: The shapefile data of the Zhejiang province in GABLE have been made available. The data in other provinces is being sorted out. Enjoy it!
 * **`Feb. 27rd, 2024`:** :clap: Our paper is accepted by Remote Sensing of Environment! Refer to the **[Paper](https://www.sciencedirect.com/science/article/pii/S0034425724000683)** for more details.
 * **`Jan. 03rd, 2024`:** :rocket: The shapefile data of three cities (Beijing, Tianjin, Shanghai) in GABLE have been made available. The data in other provinces is being sorted out. Enjoy it!
@@ -14,13 +15,13 @@ Three-dimensional (3D) building models provide horizontal and vertical informati
 
 ## Download
 
-Beijing: [[Baidu Netdisk](https://pan.baidu.com/s/11wZNvzd7bf8MdlC2Z7MTrg)] password: 1xvk
+Beijing: [[Baidu Netdisk](https://pan.baidu.com/s/1USlyqmhBPS4-cXA9bHLl5g)] password: z04u
 
-Tianjin: [[Baidu Netdisk](https://pan.baidu.com/s/183PBHoc3gUiFUFvWMPGPbg)] password: tku7
+Tianjin: [[Baidu Netdisk](https://pan.baidu.com/s/1MEqWNxOaFbUks5bI_bhK6g)] password: 95ev
 
-Shanghai: [[Baidu Netdisk](https://pan.baidu.com/s/1MWwDCjVzC8h7KjRxrAQKUQ)] password: 809t
+Shanghai: [[Baidu Netdisk](https://pan.baidu.com/s/137_vIGuGn1YDtx7oUtm8_w)] password: u11u
 
-Zhejiang: [[Baidu Netdisk](https://pan.baidu.com/s/1DU6q_pmMqIfkLPXfaOlnGg)] password: dfl2
+Zhejiang: [[Baidu Netdisk](https://pan.baidu.com/s/1Mi3qYk-xH2JfFFa1KqlO0w)] password: b1hv
 
 # Citation
 If you find GABLE is useful in your research or applications, please consider giving us a star :star: and citing them by the following BibTeX entries:
