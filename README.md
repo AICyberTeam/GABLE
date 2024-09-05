@@ -2,6 +2,7 @@
 
 #
 ### NEWS !!!
+* **`Aug. 27th, 2024`:** :rocket: We have released the second batch of data for 10 provinces/cities. The third batch of data is being sorted out.
 * **`Jul. 29rd, 2024`:** :bug: We have updated the issue regarding missing data in certain areas. Please download the latest version from the new Baidu Netdisk link. Only data from July 29, 2024, onwards is considered accurate. We apologize for any inconvenience caused.
 * **`Apr. 09rd, 2024`:** :rocket: The shapefile data of the Zhejiang province in GABLE have been made available. The data in other provinces is being sorted out. Enjoy it!
 * **`Feb. 27rd, 2024`:** :clap: Our paper is accepted by Remote Sensing of Environment! Refer to the **[Paper](https://www.sciencedirect.com/science/article/pii/S0034425724000683)** for more details.
@@ -15,13 +16,26 @@ Three-dimensional (3D) building models provide horizontal and vertical informati
 
 ## Download
 
-Beijing: [[Baidu Netdisk](https://pan.baidu.com/s/1USlyqmhBPS4-cXA9bHLl5g)] password: z04u
+All files can be downloaded via Baidu Netdisk.
 
-Tianjin: [[Baidu Netdisk](https://pan.baidu.com/s/1MEqWNxOaFbUks5bI_bhK6g)] password: 95ev
-
-Shanghai: [[Baidu Netdisk](https://pan.baidu.com/s/137_vIGuGn1YDtx7oUtm8_w)] password: u11u
-
-Zhejiang: [[Baidu Netdisk](https://pan.baidu.com/s/1Mi3qYk-xH2JfFFa1KqlO0w)] password: b1hv
+| Province/City | password |
+|----------|----------|
+|   [Beijing](https://pan.baidu.com/s/1USlyqmhBPS4-cXA9bHLl5g)   |   z04u |
+|   [Tianjin](https://pan.baidu.com/s/1MEqWNxOaFbUks5bI_bhK6g)   |   95ev |
+|   [Shanghai](https://pan.baidu.com/s/137_vIGuGn1YDtx7oUtm8_w)  |   u11u |
+|   [Zhejiang](https://pan.baidu.com/s/138qPNVzG2Cf7vqjP-PhaMg)  |   ts15 |
+|----------|----------|
+|   [Guangdong](https://pan.baidu.com/s/1ntV9ymPnRWXgX9PfYeWZnA)  |   tkkm  |
+|   [Taiwan](https://pan.baidu.com/s/1jgiOGjF-axTxgqEFcrZTMg)     |   kk02  |
+|   [Gansu](https://pan.baidu.com/s/1OyO8YQOSmr61HPxr16y0vw)      |   py6x  |
+|   [Chongqing](https://pan.baidu.com/s/1ksyfIES420E67KhlB2uR4A)  |   78r1  |
+|   [Hubei](https://pan.baidu.com/s/1c-pcXdtZTTRLmfT3GACKmw)      |   9aps  |
+|   [Hunan](https://pan.baidu.com/s/1DaSSMaWwBGLPLsEIDPvZag)      |   m2uz  |
+|   [Shandong](https://pan.baidu.com/s/1yUS1D3mEQDzGeBasp0DZIQ)   |   k76a  |
+|   [Shanxi](https://pan.baidu.com/s/1RphP4BX0WUEv9u1GRZ_NZg)     |   5ewg  |
+|   [Hebei](https://pan.baidu.com/s/1jJgMNc-NARRx-WfTT3XcnQ)      |   mm8a  |
+|   [Guangxi](https://pan.baidu.com/s/164uNdxwa1WQ0Ghsu692Jwg)    |   1567  |
+|----------|----------|
 
 # Citation
 If you find GABLE is useful in your research or applications, please consider giving us a star :star: and citing them by the following BibTeX entries:
